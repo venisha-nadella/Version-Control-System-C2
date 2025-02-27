@@ -38,5 +38,5 @@ NOTE:
 
 6. Create a new PR from Github Ul to the main branch of the project
 
-# NOTE : 
+NOTE : 
 Never send direct commits to your fork's main branch or to the project repository.
