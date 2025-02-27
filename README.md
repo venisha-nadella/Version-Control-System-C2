@@ -1,5 +1,4 @@
-# Version-Control-System
- Github
+# Version-Control-System (GitHub)
 
 # Authentication Setup
 
