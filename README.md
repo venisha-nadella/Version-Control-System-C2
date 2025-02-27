@@ -23,7 +23,7 @@ NOTE:
 3. Right click on it and select Automatic from startup type.
 4. After that once again right click on openSSH Authentication Agent & start.
 
-# Contributing to existing projects
+# Contributing to Existing Projects
 
 1. Fork the repo with your BeingZero Github account.
 
