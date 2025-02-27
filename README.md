@@ -25,7 +25,7 @@ NOTE:
 
 # Contributing to Existing Projects
 
-1. Fork the repo with your BeingZero Github account.
+1. Fork the repo with your Github account.
 
 2. Clone the forked repo in your local system.
 
